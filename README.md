@@ -1,3 +1,5 @@
+This repo has been forked and is now in active development at https://github.com/p-lod/PALP-Prequel. 
+
 # PALP Prequel
 
 PALP Prequel is a Flask web application that was created to help researchers prepare images for the PALP project. It uses data from [Pitture e pavimenti di Pompei](https://www.worldcat.org/title/pitture-e-pavimenti-di-pompei/oclc/490575255),  [PompeiiinPictures](https://pompeiiinpictures.com/pompeiiinpictures/index.htm), and [an ArcGIS Map](https://arcg.is/ivHP0). The prequel is currently hosted at [https://prequel.p-lod.umasscreate.net/](https://prequel.p-lod.umasscreate.net/).
